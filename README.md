@@ -32,20 +32,5 @@ Plataforma completa que transforma o envio de propostas em um **funil de vendas 
 
 ---
 
-### 🚀 Quick Start
-
-#### Com Docker (recomendado – ambiente completo)
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/RafaelLacerda15/runar-propostas.git
-cd runar-propostas
-
-# 2. Configure as variáveis de ambiente
-cp .env.example .env
-
-# 3. Inicie todos os serviços
-docker-compose up -d --build
-
 # 4. Acesse a aplicação
 # → http://localhost
