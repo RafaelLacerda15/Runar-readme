@@ -31,6 +31,3 @@ Plataforma completa que transforma o envio de propostas em um **funil de vendas 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
-# 4. Acesse a aplicação
-# → http://localhost
